@@ -93,7 +93,7 @@ public class FuncionarioRepository {
       }
     }
     int idade = Period.between(funcionarioMaisAntigo.getNascimento(), agora).getYears();
-    System.out.printf("Funcionário mais antigo:\nNome: %s\nIdade: %d\n", funcionarioMaisAntigo.getNome(), idade);
+    System.out.printf("Funcionário mais antigo\nNome: %s\nIdade: %d\n", funcionarioMaisAntigo.getNome(), idade);
     this.imprimeLinhaSeparadora();
   }
 
