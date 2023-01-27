@@ -11,6 +11,8 @@ interação do usuário via terminal.
 
 ## Como usar
 
+Você vai precisar do [Java11 ou maior](https://www.java.com/pt-BR/download/manual.jsp) e do [apache maven](https://maven.apache.org/download.cgi) para rodar esse projeto.
+
 Clone este repositório
 ```
 git clone git@github.com:Valdeci97/projedata-challenge.git
