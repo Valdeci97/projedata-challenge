@@ -13,7 +13,7 @@ interação do usuário via terminal.
 
 Clone este repositório
 ```
-
+git clone git@github.com:Valdeci97/projedata-challenge.git
 ```
 
 Mude para a pasta do projeto
